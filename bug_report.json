@@ -1,0 +1,19 @@
+{
+   "Title" : "Application icon doesn't display on the Main screen when user tap on the continue button",
+   "Divice" : "iPhone 11",
+   "iOS" : 15,
+   "User": {
+      "username" : "user_good@test.com",
+      "password" : "qwerty12345"
+   },
+  "Pre-conditions": {
+     "condition 1" : "App is opened",
+     "condition 2" : "User is logged"
+  },
+  "Steps to reproduce": {
+     "step 1" : "Go to the Main screen",
+     "step 2" : "On the Main screen pay attention to the fact that the app's icon doesn't displayed"
+  },
+  "Actual result" : "Icon doesn't displayed, the Main screen doesn't match with design",
+  "Expected result" : "Icon displays on the screen, the Main screen matches with design"
+}
