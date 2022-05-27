@@ -1,0 +1,11 @@
+cat >> skills.json
+    {
+        "skills":
+           [
+              "skill_1" : "Terminal",
+              "skill_2" : "Git",
+              "skill_3" : "JS & Postman",
+              "skill_4" : "mobile testing",
+              "skill_5" : "web_testing"
+           ]
+    }
